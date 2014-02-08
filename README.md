@@ -1,0 +1,5 @@
+**Rock Paper Scissors Game**
+A Java version of a classic Rock Paper Scissors Game.  The game is designed to have an RPS class that serves as a template for creating the game.  
+The RPSConsole is an RPS game console.  The user has a choice whether s/he would like to bet.  The RPSConsole class creates an instance of the RPS class and use methods to determines the win/loss/tie.  
+The RPSGUIGame class provides a graphical user interface for the RPS game.The user has a choice whether s/he would like to bet.  The GUI class has many GUI components and layouts and the inner class that contains helper methods that interact with the user to get inputs and displays the result.  
+The RPSGUIGame class creates an instance of the RPS class and use methodsto determine the win/loss/tie.  Results and messages are obtained via the getters of the RPS class.

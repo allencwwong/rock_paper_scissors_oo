@@ -1,0 +1,4 @@
+Main-Class: bin/RPSConsole
+
+
+
